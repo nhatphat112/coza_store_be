@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6163a31-f3e7-4f8c-8e66-6272df99ba9d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dcc2695f-0514-433f-8a65-9bab684518e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../eureka_server/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka_server/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka_server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka_server/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +26,8 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
-  <component name="ProjectId" id="2UjGv3iToSvVth2r515gtGE39tx" />
+  <component name="ProjectId" id="2Un6AGQF2nUHpylQuC3AHQIB1Sb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,18 +41,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/WorkSpaces/git_project/be_the_library/eureka_server",
+    "last_opened_file_path": "/Users/WorkSpaces/git_project/coza_store_be/product_service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "192fddb72062088e0be5c5677e79110f",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="eureka_server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.the_library.eureka_server.eureka_server.EurekaServerApplication" />
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.coza_store.product_service.product_service.ProductServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,12 +65,14 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6163a31-f3e7-4f8c-8e66-6272df99ba9d" name="Changes" comment="" />
-      <created>1693445804407</created>
+      <changelist id="dcc2695f-0514-433f-8a65-9bab684518e5" name="Changes" comment="" />
+      <created>1693562854622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1693445804407</updated>
-      <workItem from="1693445805521" duration="873000" />
+      <updated>1693562854622</updated>
+      <workItem from="1693562855595" duration="3000" />
+      <workItem from="1693562880616" duration="377000" />
+      <workItem from="1693563282329" duration="408000" />
     </task>
     <servers />
   </component>
